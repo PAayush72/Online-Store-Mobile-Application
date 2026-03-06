@@ -1,0 +1,27 @@
+﻿# React Native / Expo
+node_modules/
+.expo/
+dist/
+build/
+android/app/build/
+ios/build/
+*.jks
+*.keystore
+*.apk
+*.ipa
+*.xcworkspace
+*.xcodeproj/project.xcworkspace
+*.xcodeproj/xcshareddata
+.DS_Store
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+.expo-shared/
+web-build/
+coverage/
+__tests__/__snapshots__/
+
+# Metro / cache
+.metro/
+.haste-map*
+*.watchman*
